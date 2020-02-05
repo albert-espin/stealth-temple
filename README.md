@@ -1,4 +1,4 @@
-# Stealth Temple: Game with Multi-Agent, Behaviour-oriented Enemy Artificial Intelligence (Bachelor Thesis)
+# Stealth Temple: Game with Multi-Agent, Behaviour-oriented Enemy Artificial Intelligence
 
 ## Abstract
 
@@ -25,7 +25,7 @@ You can find a [series of Youtube videos](https://www.youtube.com/watch?v=DMumS6
 ![](images/runningWithOrb.png)
 ![](images/runningInChaos.png)
 ![](images/placingOrb.png)
-![](images/victory.png)
+![](images/peacefulAgents.png)
 ![](images/failure.png)
 
 
@@ -45,6 +45,6 @@ You can find a [series of Youtube videos](https://www.youtube.com/watch?v=DMumS6
 The game was developed in Unreal Engine 4, using both C++ and Blueprints.
 
 
-## Development Context
+## Development Context and License
 
 This project was submitted as Thesis for the Bachelor's Degree in Computer Science at University of Barcelona, in May 2018. The report is also available in the [official repository](http://diposit.ub.edu/dspace/handle/2445/130968) of the University. The report and slides are subject to the Creative Commons Attribution Share-Alike license.
